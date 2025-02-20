@@ -5,14 +5,19 @@ Project: Build a simple Pickle E-Commerce Website with basic functionality.
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 >>E-Commerce Website Project
+>>
 >>MERN Stack = Mango DB - Express.JS - React.JS - Node.JS
+>>
 >>Front-end commpleted.
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 >>Under Constractution works>>>>>>>
+>>
       1. Form Validation
+      
       2. Database Connection
+      
       3. Backend work
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
