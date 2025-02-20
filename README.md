@@ -33,10 +33,15 @@ Project: Build a simple Pickle E-Commerce Website with basic functionality.
 
 Created BY- 
 	Name	  : Gopi Shankar V
+ 
 	E-mail	  : gs.gopishankar.v@gmail.com
+ 
 	Phone No  : +91 7904378166
+ 
 	Portfolio : https://gopishankar.netlify.app
+ 
 	LinkedIn  : https://linkedin.com/in/gopi-shankar-v
+ 
 	GitHub    : https://github.com/Irudium-GS
 
 <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
